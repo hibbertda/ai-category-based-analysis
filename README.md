@@ -1,5 +1,3 @@
-Here's a README file based on the provided code:
-
 # Category-Based Narrative Analysis with Azure OpenAI
 
 ## Overview
